@@ -8,7 +8,7 @@ This is a simple To-Do List web application built to practice and strengthen my 
 * Click a task to cross it out, indicating that it's finished
 * Remove tasks from your list with a delete option
 
-**Technologies Used**
+**Built With**
 -
 * Javascript
 * CSS
