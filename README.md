@@ -16,4 +16,4 @@ This is a simple To-Do List web application built to practice and strengthen my 
 
 **Live Demo Link**
 -
-https://brooke-lin.github.io/to-do-list/
+ https://brooke-lin.github.io/WebProjects_ToDoList/
